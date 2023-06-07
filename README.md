@@ -3,31 +3,33 @@
 </div>
 
 <div align="center">
- <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white">
-<img src="https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff">
- <img src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3">
- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
- <img src="https://img.shields.io/badge/NodeJS-339933?style=flat-square&logo=nodedotjs&logoColor=white">
- <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
- <img src="https://img.shields.io/badge/CSharp-00599C?style=flat-square&logo=csharp&logoColor=white">
- <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white">
- <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white">
- <br/>
- <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white">
- <img src="https://img.shields.io/badge/Lumen-E74430?style=flat-square&logo=lumen&logoColor=white">
- <img src="https://img.shields.io/badge/ExpressJS-000000?style=flat-square&logo=express&logoColor=white">
- <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white">
-  <br/>
- <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
- <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
- <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white">
- <br/>
- <img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white">
- <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white">
-  <br/>
- <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white">
- <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white">
- <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white">
- <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white">
- <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white">
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white">
+    <img src="https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff">
+    <img src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+    <img src="https://img.shields.io/badge/NodeJS-339933?style=flat-square&logo=nodedotjs&logoColor=white">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+    <img src="https://img.shields.io/badge/CSharp-00599C?style=flat-square&logo=csharp&logoColor=white">
+    <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white">
+    <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white">
+    <br/>
+    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white">
+    <img src="https://img.shields.io/badge/Lumen-E74430?style=flat-square&logo=lumen&logoColor=white">
+    <img src="https://img.shields.io/badge/ExpressJS-000000?style=flat-square&logo=express&logoColor=white">
+    <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white">
+    <br/>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
+    <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white">
+    <br/>
+    <img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white">
+    <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white">
+    <br/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+    <br/>
+    <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white">
+    <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white">
+    <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white">
+    <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white">
+    <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white">
 </div>
