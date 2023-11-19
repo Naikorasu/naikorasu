@@ -28,6 +28,10 @@
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
     <br/>
     <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white">
+    <img src="https://img.shields.io/badge/macOS-000?logo=macos&logoColor=fff&style=for-the-badge">
+    <br/>
+    <img src="https://img.shields.io/badge/Homebrew-FBB040?logo=homebrew&logoColor=fff&style=for-the-badge">
+    <br/>
     <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white">
     <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white">
     <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white">
