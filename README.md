@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/Lumen-E74430?style=plastic&logo=lumen&logoColor=fff">
     <img src="https://img.shields.io/badge/ExpressJS-000000?style=plastic&logo=express&logoColor=fff">
     <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=plastic&logo=codeigniter&logoColor=fff">
-    <img src="https://img.shields.io/badge/dotnet-512BD4?style=plastic&logo=dotnet&logoColor=fff">
+    <img src="https://img.shields.io/badge/.NET-512BD4?style=plastic&logo=dotnet&logoColor=fff">
     <br/>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=fff">
     <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=plastic&logo=postgresql&logoColor=fff">
