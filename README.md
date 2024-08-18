@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/-CSS3-%231572B6?style=plastic&logo=css3">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black">
     <img src="https://img.shields.io/badge/NodeJS-339933?style=plastic&logo=nodedotjs&logoColor=fff">
-    <img src="https://img.shields.io/badge/C-00599C?style=plastic&logo=CSharp&logoColor=fff">
+    <img src="https://img.shields.io/badge/C%27-00599C?style=plastic&logo=C&logoColor=fff">
     <img src="https://img.shields.io/badge/Swift-F05138?style=plastic&logo=swift&logoColor=fff">
     <img src="https://img.shields.io/badge/Go-00ADD8?style=plastic&logo=go&logoColor=fff">
     <br/>
