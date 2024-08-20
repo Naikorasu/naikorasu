@@ -34,7 +34,7 @@
     <img src="https://img.shields.io/badge/Homebrew-FBB040?style=plastic&logo=homebrew&logoColor=fff">
     <br/>
     <img src="https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=cloudflare&logoColor=fff">
-    <img src="https://img.shields.io/badge/Amazon%20Web%20Services?style=plastic&logo=amazonwebservices&logoColor=fff">
+    <img src="https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?style=plastic&logo=amazonwebservices&logoColor=fff">
     <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=fff&style=plastic">
     <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=plastic&logo=digitalocean&logoColor=fff">
     <br/>
