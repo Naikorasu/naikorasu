@@ -42,7 +42,7 @@
     <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=fff&style=plastic">
     <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=plastic&logo=digitalocean&logoColor=fff">
     <br/>
-    <img src="https://img.shields.io/badge/-Swagger-85EA2D?style=plastic&logo=swagger&logoColor=fff">
+    <img src="https://img.shields.io/badge/Swagger-85EA2D?style=plastic&logo=swagger&logoColor=fff">
     <img src="https://img.shields.io/badge/Terraform-844FBA?style=plastic&logo=terraform&logoColor=fff">
     <img src="https://img.shields.io/badge/Github%20Action-2088FF?style=plastic&logo=githubactions&logoColor=fff">
     
