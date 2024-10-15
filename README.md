@@ -7,11 +7,12 @@
     <img src="https://img.shields.io/badge/C%23-00599C?style=plastic&logo=C&logoColor=fff">
     <img src="https://img.shields.io/badge/PHP-777BB4?style=plastic&logo=php&logoColor=fff">
     <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=fff">
-    <img src="https://img.shields.io/badge/-HTML5-%23E44D27?style=plastic&logo=html5&logoColor=ffffff">
-    <img src="https://img.shields.io/badge/-CSS3-%231572B6?style=plastic&logo=css3">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black">
     <img src="https://img.shields.io/badge/NodeJS-339933?style=plastic&logo=nodedotjs&logoColor=fff">
     <img src="https://img.shields.io/badge/Swift-F05138?style=plastic&logo=swift&logoColor=fff">
+    <img src="https://img.shields.io/badge/Lua-2C2D72?style=plastic&logo=lua&logoColor=fff">
+    <img src="https://img.shields.io/badge/-HTML5-%23E44D27?style=plastic&logo=html5&logoColor=ffffff">
+    <img src="https://img.shields.io/badge/-CSS3-%231572B6?style=plastic&logo=css3">
     <br/>
     <img src="https://img.shields.io/badge/Gin-008ECF?style=plastic&logo=gin&logoColor=fff">
     <img src="https://img.shields.io/badge/.NET-512BD4?style=plastic&logo=dotnet&logoColor=fff">
