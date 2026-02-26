@@ -36,6 +36,7 @@
     <img src="https://img.shields.io/badge/macOS-000?style=plastic&logo=apple&logoColor=fff">
     <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=plastic&logo=kalilinux&logoColor=fff">
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=fff">
+    <img src="https://img.shields.io/badge/RaspberryPi-A22846?style=plastic&logo=raspberrypi&logoColor=fff">
     <br/>
     <img src="https://img.shields.io/badge/Homebrew-FBB040?style=plastic&logo=homebrew&logoColor=fff">
     <br/>
