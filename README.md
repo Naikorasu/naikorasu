@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/C%23-00599C?style=plastic&logo=C&logoColor=fff">
     <img src="https://img.shields.io/badge/PHP-777BB4?style=plastic&logo=php&logoColor=fff">
     <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=fff">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=white">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black">
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white">
     <img src="https://img.shields.io/badge/NodeJS-339933?style=plastic&logo=nodedotjs&logoColor=fff">
     <img src="https://img.shields.io/badge/Swift-F05138?style=plastic&logo=swift&logoColor=fff">
