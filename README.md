@@ -22,6 +22,7 @@
     <img src="https://img.shields.io/badge/Lumen-E74430?style=plastic&logo=lumen&logoColor=fff">
     <img src="https://img.shields.io/badge/ExpressJS-000000?style=plastic&logo=express&logoColor=fff">
     <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=plastic&logo=codeigniter&logoColor=fff">
+    <img src="https://img.shields.io/badge/Astro-BC52EE?style=plastic&logo=astro&logoColor=fff">
     <br/>
     <img src="https://img.shields.io/badge/n8n-EA4B71?style=plastic&logo=n8n&logoColor=fff">
     <br/>
