@@ -35,8 +35,6 @@
     <br/>
     <img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=fff">
     <br/>
-    <img src="https://img.shields.io/badge/Terraform-844FBA?style=plastic&logo=terraform&logoColor=fff">
-    <br/>
     <img src="https://img.shields.io/badge/macOS-000?style=plastic&logo=apple&logoColor=fff">
     <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=plastic&logo=kalilinux&logoColor=fff">
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=fff">
