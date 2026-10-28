@@ -51,12 +51,18 @@
     <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=fff&style=plastic">
     <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=plastic&logo=digitalocean&logoColor=fff">
     <br/>
-    <img src="https://img.shields.io/badge/GithubCopilot-000000?style=plastic&logo=githubcopilot&logoColor=fff">
-    <img src="https://img.shields.io/badge/Claude-D97757?style=plastic&logo=claude&logoColor=fff">
-    <br/>
-    <img src="https://img.shields.io/badge/ClaudeCode-D97757?style=plastic&logo=claudecode&logoColor=fff">
-    <img src="https://img.shields.io/badge/OpenCode-000000?style=plastic&logo=opencode&logoColor=fff">
     <img src="https://img.shields.io/badge/Pi-000000?style=plastic&logo=pi&logoColor=fff">
+    <img src="https://img.shields.io/badge/OpenCode-000000?style=plastic&logo=opencode&logoColor=fff">
+    <img src="https://img.shields.io/badge/Codex-000000?style=plastic&logo=codex&logoColor=fff">
+    <img src="https://img.shields.io/badge/DeepSeek%20Harness-5786FE?style=plastic&logo=deepseek&logoColor=fff">
+    <img src="https://img.shields.io/badge/MuseCode-0467DF?style=plastic&logo=meta&logoColor=fff">
+    <img src="https://img.shields.io/badge/ClaudeCode-D97757?style=plastic&logo=claudecode&logoColor=fff">
+    <img src="https://img.shields.io/badge/GithubCopilot-000000?style=plastic&logo=githubcopilot&logoColor=fff">
+    <br/>
+    <img src="https://img.shields.io/badge/Claude-D97757?style=plastic&logo=claude&logoColor=fff">
+    <img src="https://img.shields.io/badge/MetaAI-0467DF?style=plastic&logo=meta&logoColor=fff">
+    <img src="https://img.shields.io/badge/OpenAI-000000?style=plastic&logo=openai&logoColor=fff">
+    <img src="https://img.shields.io/badge/DeepSeek-5786FE?style=plastic&logo=deepseek&logoColor=fff">
     <br/>
     <img src="https://img.shields.io/badge/Swagger-85EA2D?style=plastic&logo=swagger&logoColor=fff">
     <img src="https://img.shields.io/badge/Terraform-844FBA?style=plastic&logo=terraform&logoColor=fff">
