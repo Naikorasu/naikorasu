@@ -54,6 +54,7 @@
     <img src="https://img.shields.io/badge/GithubCopilot-000000?style=plastic&logo=githubcopilot&logoColor=fff">
     <img src="https://img.shields.io/badge/Claude-D97757?style=plastic&logo=claude&logoColor=fff">
     <br/>
+    <img src="https://img.shields.io/badge/ClaudeCode-D97757?style=plastic&logo=claudecode&logoColor=fff">
     <img src="https://img.shields.io/badge/OpenCode-000000?style=plastic&logo=opencode&logoColor=fff">
     <img src="https://img.shields.io/badge/Pi-000000?style=plastic&logo=pi&logoColor=fff">
     <br/>
